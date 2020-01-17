@@ -1,8 +1,5 @@
 # First Project
 
-kjdanodn
-pdanda
-
-other ref
+## First section
 
 This is awesome
